@@ -1,5 +1,5 @@
 /*
- *  This sample program solves the following problem from the projecteuler.net website,
+ *  This sample program solves the problem #1 from the projecteuler.net archive,
  * 
  * If we list all the natural numbers below 10 that are multiples of 3 or 5, we get 
  * 3, 5, 6, and 9.  The sum of these multiples is 23.
